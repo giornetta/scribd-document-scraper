@@ -1,0 +1,1 @@
+# Simple Scribd Document Scraper
