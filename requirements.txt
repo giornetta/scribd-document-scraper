@@ -2,7 +2,7 @@
 # https://github.com/damnever/pigar
 
 # automate.py: 3
-Pillow == 5.0.0
+Pillow == 9.4.0
 
 # automate.py: 8
 beautifulsoup4 == 4.6.0
