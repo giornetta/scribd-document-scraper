@@ -8,7 +8,7 @@ Pillow == 9.4.0
 beautifulsoup4 == 4.6.0
 
 # automate.py: 4
-requests == 2.18.4
+requests == 2.20.0
 
 # automate.py: 1
 selenium == 3.11.0
